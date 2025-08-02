@@ -17,9 +17,11 @@ A local chatbot powered by Retrieval-Augmented Generation (RAG) that answers que
 
 ## 📁Project Structure
 
+```
 ├── app.py # Streamlit app
 ├── faiss_store/ # FAISS index & metadata
 │ ├── index.faiss
 │ └── index.pkl
 ├── requirements.txt
 └── README.md
+```
